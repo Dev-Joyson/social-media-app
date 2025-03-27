@@ -1,6 +1,11 @@
 import Image from "next/image"
 
 const AddPost = () => {
+
+
+  
+
+
   return (
     <div className="p-4 shadow-md bg-white rounded-lg flex gap-4 justify-between text-sm">
       {/* AVATAR */}
